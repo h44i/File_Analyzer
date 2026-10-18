@@ -1,0 +1,5 @@
+{"timestamp": "2026-10-15T09:00:00Z", "level": "INFO", "source": "worker", "message": "Задача начата"}
+{"timestamp": "2026-10-15T09:00:05Z", "level": "ERROR", "source": "worker", "message": "Ошибка"
+{"timestamp": "не дата", "level": "INFO", "source": "worker", "message": "x"}
+{"timestamp": "2026-10-15T09:01:00Z", "level": "LOUD", "source": "worker", "message": "x"}
+{"timestamp": "2026-10-15T09:02:00Z", "level": "ERROR", "source": "worker", "message": "Задача упала"}

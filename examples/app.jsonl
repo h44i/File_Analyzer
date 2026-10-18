@@ -1,0 +1,8 @@
+{"timestamp": "2026-10-15T08:00:00Z", "level": "INFO", "source": "api", "message": "Сервер запущен"}
+{"timestamp": "2026-10-15T08:01:12Z", "level": "DEBUG", "source": "api", "message": "GET /health 200"}
+{"timestamp": "2026-10-15T08:03:40Z", "level": "WARNING", "source": "cache", "message": "Промах кэша выше 30%"}
+{"timestamp": "2026-10-15T08:05:00Z", "level": "ERROR", "source": "db", "message": "Таймаут соединения"}
+{"timestamp": "2026-10-15T08:05:02Z", "level": "ERROR", "source": "db", "message": "Повторная попытка не удалась"}
+{"timestamp": "2026-10-15T08:06:30Z", "level": "CRITICAL", "source": "db", "message": "База недоступна"}
+{"timestamp": "2026-10-15T08:07:00Z", "level": "ERROR", "source": "payments", "message": "Платёж отклонён 💳"}
+{"timestamp": "2026-10-15T08:10:00Z", "level": "INFO", "source": "api", "message": "Восстановлено"}

@@ -1,0 +1,5 @@
+timestamp,level,source,message
+2026-10-15T07:30:00Z,INFO,auth,Пользователь вошёл
+2026-10-15T07:31:00Z,ERROR,auth,"Неверный пароль, попытка 3"
+2026-10-15T07:45:00Z,WARNING,api,Медленный ответ 2.5s
+2026-10-15T08:20:00Z,CRITICAL,payments,Шлюз не отвечает
